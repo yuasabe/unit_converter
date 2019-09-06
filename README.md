@@ -1,6 +1,8 @@
-# hello_rectangle
+# Unit Converter App
 
-A new Flutter project.
+A test project using Flutter to learn the fundamentals.
+
+A basic unit converter app using widgets and APIs.
 
 ## Getting Started
 
